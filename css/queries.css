@@ -1,0 +1,41 @@
+.form{
+  	background-image: url(../image/large.jpg);
+  	padding: 15% 0; 
+  	background-repeat: no-repeat;
+  	background-size: 100%;
+  	opacity: 10.8;
+}
+.lineafondo{
+ 	width: 80%;
+    border-bottom: 10px solid #4E7EBB;
+    display: inline-block;
+    margin-left: 135px;
+    margin-bottom: -15px;
+}
+.fondo-white{
+	width: 80%;
+	background-color: white;
+	color: black;
+	margin: 0 auto;
+	padding: 1%;
+}
+.boton {
+	text-align: center;
+	margin-right: 55%;
+}
+.text{
+	text-align: center;
+}
+.linea{
+  	width: 100%;
+  	border-bottom: 1px solid #4E7EBB;
+  	display: inline-block; 
+  	margin-bottom: 1%;
+}
+.bottom{
+	margin-bottom: 10px;
+}
+.left{
+    margin-left: 50px;
+    text-align: center;
+}
